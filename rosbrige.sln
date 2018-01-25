@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rosbrige", "Assembly-CSharp.csproj", "{D769D016-EAA6-AE20-21BE-0B7092513A2D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rosbrige", "Assembly-CSharp-Editor.csproj", "{029EBACF-C464-AF46-7B23-698FED3495CF}"
+EndProject
+Project("{FFC2EF0E-BB14-287B-63EC-41F014B2A5CB}") = "rosbrige", "Assembly-UnityScript.unityproj", "{334AFD37-0380-3354-D537-790C1782C824}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D769D016-EAA6-AE20-21BE-0B7092513A2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D769D016-EAA6-AE20-21BE-0B7092513A2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D769D016-EAA6-AE20-21BE-0B7092513A2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D769D016-EAA6-AE20-21BE-0B7092513A2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{029EBACF-C464-AF46-7B23-698FED3495CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{029EBACF-C464-AF46-7B23-698FED3495CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{029EBACF-C464-AF46-7B23-698FED3495CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{029EBACF-C464-AF46-7B23-698FED3495CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{334AFD37-0380-3354-D537-790C1782C824}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{334AFD37-0380-3354-D537-790C1782C824}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{334AFD37-0380-3354-D537-790C1782C824}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{334AFD37-0380-3354-D537-790C1782C824}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
